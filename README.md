@@ -1,4 +1,4 @@
-<h1 align="center">Projeto B7Web Burger | React JS</h1>
+<h1 align="center">Projeto NetFlix | React JS</h1>
 
 <h2 align="center">Sobre</h2>
 
